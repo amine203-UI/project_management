@@ -69,8 +69,7 @@ npm run dev
 cd frontend
 npm install
 npm run dev
-📸 Preview
-Below is a quick look at the application UI:
+
 
 
 
