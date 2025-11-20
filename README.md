@@ -61,15 +61,17 @@ VITE_API_URL= http://localhost:5000/api-v1
 🧩 Installation & Setup
 
 1️⃣ Backend Setup
+```bash
 cd backend
 npm install
 npm run dev
+```
 2️⃣ Frontend Setup
-
+```bash
 cd frontend
 npm install
 npm run dev
-
+```
 
 
 
