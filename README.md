@@ -1,7 +1,5 @@
 <h1 align="center">MERN Stack Project Management Application</h1>
-<p align="center">
-  <strong>Developed by Amine Ould Medjeber</strong>
-</p>
+
 
 <p align="center">
   <img src="/frontend/public/readme-image.png" alt="Chat App Demo" width="700">
@@ -75,8 +73,4 @@ npm run dev
 
 
 
-👨‍💻 Author
-Amine Ould Medjeber
-Full-Stack Developer | Node.js • React • MongoDB • Express.js
-📧 [ouldmedjeberamine@gmail.com]
-🌐 [www.linkedin.com/in/amine-medjeber]
+
